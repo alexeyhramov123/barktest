@@ -1,3 +1,6 @@
+run these commands to get the dependencies (not sure if complete)
+
+```bash
 pip uninstall torch torchvision
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 pip install soundfile
